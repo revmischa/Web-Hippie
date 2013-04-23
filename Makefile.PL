@@ -9,7 +9,7 @@ readme_from 'lib/Web/Hippie.pm';
 build_requires 'Test::More';
 test_requires 'Test::Requires';
 requires 'Plack';
-requires 'AnyMQ' => '0.30';
+requires 'AnyMQ' => '0.35';
 requires 'Class::Accessor' => '0.34';
 requires 'Protocol::WebSocket' => '0.00903';
 requires 'JSON';
