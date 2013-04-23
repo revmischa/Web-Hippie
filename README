@@ -26,7 +26,7 @@ SEE ALSO
     Web::Hippie::Pipe, Web::Hippie::App::JSFiles
 
 AUTHOR
-    Chia-liang Kao <clkao@clkao.org>
+    Chia-liang Kao <clkao@clkao.org>, Mischa Spiegelmock <revmischa@cpan.org>
 
 LICENSE
     This library is free software; you can redistribute it and/or modify it
